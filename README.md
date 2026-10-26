@@ -3,7 +3,7 @@
 A modern, responsive landing page design for a premium real estate platform, created in Figma for the IPS UI/UX assignment.
 
 ## 🔗 Figma Project Link
-*(Link will be added here once the Figma design is finalized)*
+*(https://www.figma.com/design/lRP0u6HiSeD51ZNfyLZW1c/Haven-Real-Estate?node-id=0-1&t=MHvARvG1qTR0tkou-1)*
 
 ## 🎯 Intended Users
 Young professionals, growing families, and property investors seeking a seamless, premium experience to find, rent, or buy modern homes. The target audience values high-resolution imagery and robust, smart filtering capabilities to make quick, informed property decisions.
