@@ -1,20 +1,43 @@
-# Haven - Real Estate Landing Page (UI/UX Design)
+# Haven — Premium Real Estate Portal
 
-A modern, responsive landing page design for a premium real estate platform, created in Figma for the IPS UI/UX assignment.
+**Project Overview**
+Haven is a fictional, modern web portal that simplifies finding, renting, and buying residential properties with advanced filtering and immersive imagery.
 
-## 🔗 Figma Project Link
-*(https://www.figma.com/design/lRP0u6HiSeD51ZNfyLZW1c/Haven-Real-Estate?node-id=0-1&t=MHvARvG1qTR0tkou-1)*
+**Objective**
+To create a modern, responsive real estate landing page using Figma UI/UX design principles.
 
-## 🎯 Intended Users
-Young professionals, growing families, and property investors seeking a seamless, premium experience to find, rent, or buy modern homes. The target audience values high-resolution imagery and robust, smart filtering capabilities to make quick, informed property decisions.
+**Target Audience**
+* Young professionals
+* Growing families
+* Property investors
+* Users seeking a seamless, trustworthy way to find modern homes
 
-## 🎨 Design Choices
-* **Color Palette:** Deep Navy Blue (#0A2540) establishes trust and corporate professionalism. Crisp White (#FFFFFF) creates a clean, minimalist canvas that lets property images stand out. Warm Gold (#D4AF37) is used strategically for primary call-to-action buttons to draw the user's eye and drive conversions.
-* **Typography:** *Montserrat* is used for headings to provide a sophisticated, architectural feel, while *Inter* is utilized for body text to guarantee maximum readability across different devices.
-* **Structural Layout:** A modern SaaS-style split-screen hero layout introduces the platform, followed by structured grids. Figma's Auto Layout was applied universally to the header, feature cards, and content sections to maintain perfect spacing and responsiveness. 
+**Main Features**
+* Responsive navigation header
+* Split-screen hero section with call-to-action buttons
+* Statistics strip
+* Three or more feature cards (Smart Filtering, High-Res Galleries, Instant Connect)
+* Featured property listing cards
+* Large call-to-action banner
+* Footer with navigation and newsletter signup
 
-## ✅ Assignment Deliverables Completed
-- [x] One complete responsive landing-page design.
-- [x] At least three reusable components.
-- [x] Shared local color and typography styles.
-- [x] Extensive use of Figma Auto Layout.
+**Design System**
+* Primary Navy Blue: #0A2540
+* Primary Gold: #D4AF37
+* Light Gray: #F8F9FA
+* Background: #FFFFFF
+* Typography: Montserrat (Headings) & Inter (Body)
+
+**UI/UX Concepts**
+* Figma Auto Layout
+* Reusable components
+* Shared color and typography styles
+* Responsive desktop, tablet, and mobile layouts
+
+**Figma Design** 
+(https://www.figma.com/design/lRP0u6HiSeD51ZNfyLZW1c/Haven-Real-Estate?node-id=0-1&t=MHvARvG1qTR0tkou-1)
+
+**Tools Used**
+* Figma
+* Figma Auto Layout
+* Figma Components
