@@ -35,7 +35,7 @@ To create a modern, responsive real estate landing page using Figma UI/UX design
 * Responsive desktop, tablet, and mobile layouts
 
 **Figma Design** 
-(https://www.figma.com/design/lRP0u6HiSeD51ZNfyLZW1c/Haven-Real-Estate?node-id=0-1&t=MHvARvG1qTR0tkou-1)
+([https://www.figma.com/design/lRP0u6HiSeD51ZNfyLZW1c/Haven-Real-Estate?node-id=0-1&t=MHvARvG1qTR0tkou-1](https://www.figma.com/design/lRP0u6HiSeD51ZNfyLZW1c/Haven-Real-Estate?node-id=0-1&t=MHvARvG1qTR0tkou-1))
 
 **Tools Used**
 * Figma
